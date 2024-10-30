@@ -1,0 +1,5 @@
+Histogram of word types:
+Grave: 9
+Monosyllable: 8
+Aguda: 2
+Esdrújula: 1
