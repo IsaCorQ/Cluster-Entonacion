@@ -1,0 +1,1 @@
+cmd_/home/ale/Desktop/driver/driver.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ale/Desktop/driver/driver.ko /home/ale/Desktop/driver/driver.o /home/ale/Desktop/driver/driver.mod.o;  true
